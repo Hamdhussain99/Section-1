@@ -1,0 +1,12 @@
+.move-top-btn{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 4px;
+}
+body{
+    height: 200vh;
+
+}
